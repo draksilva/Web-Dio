@@ -1,0 +1,1 @@
+Exercício com foco em praticar as propriedades do flexbox, copiando a pagina inicial do Instagram.
